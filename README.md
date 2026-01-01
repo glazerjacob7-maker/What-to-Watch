@@ -1,0 +1,1 @@
+Python movie recommender in two stages: scraped paginated HTML pages to collect movie metadata and user ratings, then implemented user-based collaborative filtering by converting ratings into genre preference vectors, comparing users with cosine similarity, and recommending unseen movies liked by similar users.
